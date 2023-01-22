@@ -1,0 +1,33 @@
+﻿{
+	"identification": "net.maxon.asset.metadata",
+	"content": {
+		"dataType": "net.maxon.datatype.asset.dependencystruct",
+		"isArray": true,
+		"content": [
+			{
+				"assetIdAndVersion": {
+					"_0": "builtin_plugin_net.maxon.c4d.objects",
+					"_1": ""
+				},
+				"assetTypeId": "net.maxon.assettype.plugin",
+				"assetCreationDate": {
+					"timestamp": 0
+				},
+				"originalName": "Objects",
+				"updatePolicy": 2
+			},
+			{
+				"assetIdAndVersion": {
+					"_0": "builtin_plugin_net.maxon.c4d.mograph",
+					"_1": ""
+				},
+				"assetTypeId": "net.maxon.assettype.plugin",
+				"assetCreationDate": {
+					"timestamp": 0
+				},
+				"originalName": "Mograph",
+				"updatePolicy": 2
+			}
+		]
+	}
+}

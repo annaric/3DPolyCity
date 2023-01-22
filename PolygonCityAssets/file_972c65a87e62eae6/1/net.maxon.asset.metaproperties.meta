@@ -1,0 +1,30 @@
+﻿{
+	"identification": "net.maxon.asset.metadata",
+	"content": {
+		"dataType": "net.maxon.interface.datadictionary-C",
+		"content": {
+			"referenceDataType": "net.maxon.interface.datadictionary-C",
+			"_impl": {
+				"_mode": 1,
+				"_keyType": "net.maxon.datatype.internedid",
+				"_fastData": [
+					"net.maxon.asset.metaproperties.base.automaticpreview",
+					{
+						"dataType": "bool",
+						"content": true
+					},
+					"net.maxon.asset.metaproperties.base.fileformat",
+					{
+						"dataType": "net.maxon.interface.string-C",
+						"content": "c4d"
+					},
+					"net.maxon.asset.metaproperties.base.fileformatversion",
+					{
+						"dataType": "net.maxon.interface.string-C",
+						"content": "2023.0.1"
+					}
+				]
+			}
+		}
+	}
+}

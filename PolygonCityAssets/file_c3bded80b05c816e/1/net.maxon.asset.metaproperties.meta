@@ -1,0 +1,119 @@
+﻿{
+	"identification": "net.maxon.asset.metadata",
+	"content": {
+		"dataType": "net.maxon.interface.datadictionary-C",
+		"content": {
+			"referenceDataType": "net.maxon.interface.datadictionary-C",
+			"_impl": {
+				"_mode": 1,
+				"_keyType": "net.maxon.datatype.internedid",
+				"_fastData": [
+					"net.maxon.asset.metaproperties.base.automaticpreview",
+					{
+						"dataType": "bool",
+						"content": true
+					},
+					"net.maxon.asset.metaproperties.base.fileformat",
+					{
+						"dataType": "net.maxon.interface.string-C",
+						"content": "c4d"
+					},
+					"net.maxon.asset.metaproperties.base.fileformatversion",
+					{
+						"dataType": "net.maxon.interface.string-C",
+						"content": "2023.0.1"
+					},
+					"net.maxon.asset.metaproperties.c4dfile.boundingbox",
+					{
+						"dataType": "net.maxon.parametrictype.range<net.maxon.parametrictype.vec<3,float64>>",
+						"content": {
+							"_0": {
+								"x": -209.14569003350506,
+								"y": -107.59395708608985,
+								"z": -151.2756773964619
+							},
+							"_1": {
+								"x": 201.0493366221349,
+								"y": 197.00242325695337,
+								"z": 134.14909011703913
+							}
+						}
+					},
+					"net.maxon.asset.metaproperties.c4dfile.geometryobjectcount",
+					{
+						"dataType": "int64",
+						"content": 498
+					},
+					"net.maxon.asset.metaproperties.c4dfile.insertionpoint",
+					{
+						"dataType": "(net.maxon.datatype.id,net.maxon.parametrictype.vec<3,float64>,net.maxon.parametrictype.vec<2,float64>,net.maxon.parametrictype.col<4,float64>)",
+						"isArray": true,
+						"content": [
+							{
+								"_0": "object",
+								"_1": {
+									"x": 0.0,
+									"y": 0.0,
+									"z": 0.0
+								},
+								"_2": {
+									"x": 1.7976931348623157e308,
+									"y": 1.7976931348623157e308
+								},
+								"_3": {
+									"r": 1.0,
+									"g": 1.0,
+									"b": 1.0,
+									"a": 0.0
+								}
+							}
+						]
+					},
+					"net.maxon.asset.metaproperties.c4dfile.materialcount",
+					{
+						"dataType": "int64",
+						"content": 5
+					},
+					"net.maxon.asset.metaproperties.c4dfile.objectmatrix",
+					{
+						"dataType": "net.maxon.parametrictype.mat<3,net.maxon.parametrictype.vec<3,float64>,net.maxon.parametrictype.vec<3,float64>>",
+						"content": {
+							"off": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0
+							},
+							"sqmat": {
+								"v1": {
+									"x": 1.0,
+									"y": 0.0,
+									"z": 0.0
+								},
+								"v2": {
+									"x": 0.0,
+									"y": 1.0,
+									"z": 0.0
+								},
+								"v3": {
+									"x": 0.0,
+									"y": 0.0,
+									"z": 1.0
+								}
+							}
+						}
+					},
+					"net.maxon.asset.metaproperties.c4dfile.pointcount",
+					{
+						"dataType": "int64",
+						"content": 6350
+					},
+					"net.maxon.asset.metaproperties.c4dfile.polygoncount",
+					{
+						"dataType": "int64",
+						"content": 5364
+					}
+				]
+			}
+		}
+	}
+}
